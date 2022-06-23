@@ -8,3 +8,13 @@ C:\Users\ignac\Desktop\Repos\EntornosPracticaT6\FormularioP6\FormularioP6\obj\De
 C:\Users\ignac\Desktop\Repos\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.csproj.CoreCompileInputs.cache
 C:\Users\ignac\Desktop\Repos\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.exe
 C:\Users\ignac\Desktop\Repos\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.pdb
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\bin\Debug\FormularioP6.exe.config
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\bin\Debug\FormularioP6.exe
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\bin\Debug\FormularioP6.pdb
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.csproj.AssemblyReference.cache
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.Form1.resources
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.Properties.Resources.resources
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.csproj.GenerateResource.cache
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.exe
+C:\Users\ignac\Desktop\Repos2\EntornosPracticaT6\FormularioP6\FormularioP6\obj\Debug\FormularioP6.pdb

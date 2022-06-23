@@ -36,5 +36,10 @@ namespace FormularioP6
         {
             BackColor = Color.CadetBlue;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.ForeColor = Color.Red;
+        }
     }
 }
